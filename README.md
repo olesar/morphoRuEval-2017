@@ -1,6 +1,6 @@
 # MorphoRuEval
 материалы к соревнованию MorphoRuEval-2017
-http://www.dialog-21.ru/evaluation/2017/morphorueval/ 
+http://www.dialog-21.ru/evaluation/2017/morphology/
 
 ## Результаты соревновния
 ### Итоговая таблица:
